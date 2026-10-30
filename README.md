@@ -1,16 +1,24 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on building my skills in software development.
 
-<!--
-**khansahar/khansahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 I’m looking to collaborate on beginner-friendly Java and web development projects.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Java, HTML, CSS, JavaScript, Git and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about my learning journey in software development and the projects I’m building.
+
+🎯 My goal is to become a Software Developer and grow as a full-stack developer.
+
+⚡ Fun fact: I enjoy learning by building projects step by step.
+
+🌐 Socials:
+LinkedIn [Mastodon](https://mastodon.social/@Sahar Khan) email
+
+💻 Tech Stack:
+Java JavaScript HTML5
+
+📊 GitHub Stats:
+
+
+
+
