@@ -1,21 +1,34 @@
-💫 About Me:
-🔭 I’m currently working on building my skills in software development.
+# 👋 About Me:
 
-🤝 I’m looking to collaborate on beginner-friendly Java and web development projects.
+Hi there! 👋
 
-🌱 I’m currently learning Java, HTML, CSS, JavaScript, Git and GitHub.
+I'm a BCA graduate (2026), passionate about learning software development and building useful applications.
 
-💬 Ask me about my learning journey in software development and the projects I’m building.
+🔭 I'm currently working on beginner-friendly software development projects.
 
-🎯 My goal is to become a Software Developer and grow as a full-stack developer.
+🌱 I'm currently learning Java, HTML, CSS, JavaScript and Git/GitHub.
 
-⚡ Fun fact: I enjoy learning by building projects step by step.
+💻 My interests include Java development and web development.
 
-🌐 Socials:
-LinkedIn [Mastodon](https://mastodon.social/@Sahar Khan) email
+🎯 My goal is to become a skilled Software Developer.
 
-💻 Tech Stack:
-Java JavaScript HTML5
+⚡ Fun fact: I believe the best way to learn programming is by building projects.
+
+---
+
+## 🌐 Socials:
+
+[LinkedIn](www.linkedin.com/in/sahar-khan-544323364) ·
+
+---
+
+## 🛠️ Technologies I'm Learning:
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
 
 📊 GitHub Stats:
 
